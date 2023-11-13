@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iK2jPqsOqELlO+3al65AmWw2TGma4hEr4nd1Pf302qzrP9TEb0DLJQTys+M6JJZp/9bsA0bpAd1twmfFXaR7WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacal\\source\\repos\\RefactorizarCodigo\\RefactorizarCodigo\\RefactorizarCodigo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dacal\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\dacal\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\dacal\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dacal\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\dacal\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

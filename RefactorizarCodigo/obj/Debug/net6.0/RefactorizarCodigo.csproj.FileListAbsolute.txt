@@ -1,0 +1,14 @@
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\bin\Debug\net6.0\RefactorizarCodigo.exe
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\bin\Debug\net6.0\RefactorizarCodigo.deps.json
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\bin\Debug\net6.0\RefactorizarCodigo.runtimeconfig.json
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\bin\Debug\net6.0\RefactorizarCodigo.dll
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\bin\Debug\net6.0\RefactorizarCodigo.pdb
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.AssemblyInfoInputs.cache
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.AssemblyInfo.cs
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.csproj.CoreCompileInputs.cache
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.dll
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\refint\RefactorizarCodigo.dll
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.pdb
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\RefactorizarCodigo.genruntimeconfig.cache
+C:\Users\dacal\source\repos\RefactorizarCodigo\RefactorizarCodigo\obj\Debug\net6.0\ref\RefactorizarCodigo.dll
