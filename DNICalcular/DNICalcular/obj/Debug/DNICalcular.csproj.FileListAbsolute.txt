@@ -1,0 +1,15 @@
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\bin\Debug\DNICalcular.exe.config
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\bin\Debug\DNICalcular.exe
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\bin\Debug\DNICalcular.pdb
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.csproj.AssemblyReference.cache
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\MainWindow.g.cs
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\App.g.cs
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular_MarkupCompile.cache
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular_MarkupCompile.lref
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\MainWindow.baml
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.g.resources
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.Properties.Resources.resources
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.csproj.GenerateResource.cache
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.csproj.CoreCompileInputs.cache
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.exe
+C:\Users\dacal\Downloads\2DAM\DNICalcular\DNICalcular\obj\Debug\DNICalcular.pdb

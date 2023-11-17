@@ -1,0 +1,23 @@
+﻿<Window x:Class="DNICalcular.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DNICalcular"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="495">
+    <Grid Margin="0,0,10,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Número:" Grid.Row="0" Margin="5"/>
+        <TextBox x:Name="txtNumero" Grid.Row="0" Margin="5"/>
+
+        <Button Content="Calcular Letra" Grid.Row="1" Margin="5" Click="CalcularLetra_Click"/>
+
+        <TextBlock x:Name="txtResultado" Grid.Row="2" Margin="5"/>
+    </Grid>
+</Window>
