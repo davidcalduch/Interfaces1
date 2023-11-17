@@ -1,0 +1,15 @@
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe.config
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.AssemblyReference.cache
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\MainWindow.g.cs
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\App.g.cs
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion_MarkupCompile.cache
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion_MarkupCompile.lref
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\MainWindow.baml
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.g.resources
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.exe
+C:\Users\dacal\Downloads\2DAM\InicioSesion\InicioSesion\obj\Debug\InicioSesion.pdb
