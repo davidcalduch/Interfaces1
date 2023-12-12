@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Code_Kata
+{
+  
+        public class Item
+        {
+            public string Name { get; set; }
+            public int SellIn { get; set; }
+            public int Quality { get; set; }
+        public Item() { }
+
+            public override string ToString()
+            {
+                return this.Name + ", " + this.SellIn + ", " + this.Quality;
+            }
+        }
+  
+}
