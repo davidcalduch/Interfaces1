@@ -1,0 +1,4 @@
+C:\Users\dacal\source\repos\Code Kata\Code Kata\obj\Debug\net6.0\Code Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacal\source\repos\Code Kata\Code Kata\obj\Debug\net6.0\Code Kata.AssemblyInfoInputs.cache
+C:\Users\dacal\source\repos\Code Kata\Code Kata\obj\Debug\net6.0\Code Kata.AssemblyInfo.cs
+C:\Users\dacal\source\repos\Code Kata\Code Kata\obj\Debug\net6.0\Code Kata.csproj.CoreCompileInputs.cache
